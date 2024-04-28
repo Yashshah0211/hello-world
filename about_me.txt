@@ -1,1 +1,2 @@
 Hello, my name is Yash Kumar Shah.
+In this internship i am learning about the working of Git and GitHub.
