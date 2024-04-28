@@ -1,2 +1,5 @@
-Hello, my name is Yash Kumar Shah.
-In this internship i am learning about the working of Git and GitHub.
+Hello, my name is Yash Kumar Shah
+In this internship i am looking forward to learn Python and SQL.
+My goal is to gain industry relevant skills.
+and also to learn more skills
+
